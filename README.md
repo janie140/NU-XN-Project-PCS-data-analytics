@@ -11,3 +11,19 @@ The use of systems like Insightly and iPad check-ins provides real-time data, en
 
 The Theory of Change data in Insightly, categorized by different phases, specific programs, and outcomes, allows for tracking specific metrics aligned with the Theory of Change model for each member. However, it appears somewhat complex when organized into a single column. PCS should consider a new data collection method for membership activities and program tracking data, as it is crucial for member engagement and progress reports, as well as performance metrics such as data on players' performance, skills, rankings, and improvements. Additionally, some metrics, like staff grading of guided-phase outcomes, are subjective and can lead to inconsistency in data analysis.
 
+1. Project Context
+THE ASK: Create a Tableau dashboard that builds upon an existing Theory of Change (TOC) tracking tool.
+
+DESIRED FEATURES:
+○ Quickly visualize individual TOC journeys
+○ Understand who is coming to PCS, when they are coming, and what they are doing
+
+2. Our goals:
+◦ Create a Tableau dashboard that provides PCS with views of
+- Individual member TOC journeys 2. Organization-wide TOC progress
+-  Key operational metrics
+◦ Ensure our data-to-dashboard process is easy for PCS staff to update and repeat with future data
+
+<img width="687" alt="Screenshot 2024-01-19 at 9 36 12 AM" src="https://github.com/janie140/NU-XN-Project-PCS-data-analytics/assets/121474131/fa894e94-468d-4a56-84e3-e3a6b5ada267">
+
+
