@@ -1,5 +1,5 @@
 # NU-XN-Project-PCS-data-analytics
-Portland Community Squash data enablement project
+Portland Community Squash data enablement project - MONITORING MEMBER ENGAGEMENT AT PORTLAND COMMUNITY SQUASH
 
 As a non-profit organization, Portland Community Squash (PCS) has a mission to build an accessible community center that fosters unity, supports its members holistically, and promotes social capital development. PCS today is focused on squash in Portland, Maine, but aspires to extend its model to multi-sport organizations as well as communities in other geographies.
 
@@ -12,6 +12,7 @@ The use of systems like Insightly and iPad check-ins provides real-time data, en
 The Theory of Change data in Insightly, categorized by different phases, specific programs, and outcomes, allows for tracking specific metrics aligned with the Theory of Change model for each member. However, it appears somewhat complex when organized into a single column. PCS should consider a new data collection method for membership activities and program tracking data, as it is crucial for member engagement and progress reports, as well as performance metrics such as data on players' performance, skills, rankings, and improvements. Additionally, some metrics, like staff grading of guided-phase outcomes, are subjective and can lead to inconsistency in data analysis.
 
 1. Project Context
+   
 THE ASK: Create a Tableau dashboard that builds upon an existing Theory of Change (TOC) tracking tool.
 
 DESIRED FEATURES:
@@ -19,11 +20,20 @@ DESIRED FEATURES:
 ○ Understand who is coming to PCS, when they are coming, and what they are doing
 
 2. Our goals:
+
 ◦ Create a Tableau dashboard that provides PCS with views of
-- Individual member TOC journeys 2. Organization-wide TOC progress
+
+- Individual member TOC journeys
+- Organization-wide TOC progress
 -  Key operational metrics
+  
 ◦ Ensure our data-to-dashboard process is easy for PCS staff to update and repeat with future data
 
-<img width="687" alt="Screenshot 2024-01-19 at 9 36 12 AM" src="https://github.com/janie140/NU-XN-Project-PCS-data-analytics/assets/121474131/fa894e94-468d-4a56-84e3-e3a6b5ada267">
+<img width="508" alt="Screenshot 2024-01-19 at 10 31 49 AM" src="https://github.com/janie140/NU-XN-Project-PCS-data-analytics/assets/121474131/8722d870-ae06-442b-9c7b-4f4ab4fbac40">
+
+<img width="687" alt="Screenshot 2024-01-19 at 9 36 12 AM" src="h
+
+<img width="717" alt="Screenshot 2024-01-19 at 10 32 12 AM" src="https://github.com/janie140/NU-XN-Project-PCS-data-analytics/assets/121474131/cab4a161-a79c-49f9-ba3a-4742b5c8e4df">
+ttps://github.com/janie140/NU-XN-Project-PCS-data-analytics/assets/121474131/fa894e94-468d-4a56-84e3-e3a6b5ada267">
 
 
