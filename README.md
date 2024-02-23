@@ -16,7 +16,9 @@ The Theory of Change data in Insightly, categorized by different phases, specifi
 THE ASK: Create a Tableau dashboard that builds upon an existing Theory of Change (TOC) tracking tool.
 
 DESIRED FEATURES:
+
 ○ Quickly visualize individual TOC journeys
+
 ○ Understand who is coming to PCS, when they are coming, and what they are doing
 
 2. Our goals:
