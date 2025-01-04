@@ -1,5 +1,5 @@
 # NU-XN-Project-PCS-data-analytics
-Portland Community Squash data enablement project - MONITORING MEMBER ENGAGEMENT AT PORTLAND COMMUNITY SQUASH
+Monitoring Member Engagement: Data Enablement Project at Portland Community Squash
 
 As a non-profit organization, Portland Community Squash (PCS) has a mission to build an accessible community center that fosters unity, supports its members holistically, and promotes social capital development. PCS today is focused on squash in Portland, Maine, but aspires to extend its model to multi-sport organizations as well as communities in other geographies.
 
